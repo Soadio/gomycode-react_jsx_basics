@@ -1,3 +1,3 @@
 export default function Fullname() {
-  return <h1>Michael Peter</h1>;
+  return <h1>Sheriff Adio</h1>;
 }

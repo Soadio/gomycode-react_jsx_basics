@@ -1,3 +1,3 @@
 export default function Address() {
-  return <h3>Lagos, Nigeria</h3>;
+  return <h3>Victoria Island,Lagos-Nigeria</h3>;
 }
